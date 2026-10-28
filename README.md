@@ -4,6 +4,8 @@
 
 ## 主要能力
 
+评述以研究成果为对象，关注实际结果、认识与能力、解决程度、价值及实质局限。方法与过程用于解释成果，不以过程挑错代替评述。
+
 - R1：生成摘要矩阵、标签规范和精读建议，区分摘要未报告与全文缺失。
 - R2：形成可追溯的全文笔记，区分作者事实、模型分析和用户观点。
 - R3：比较方法与工况，分析研究间的关系，判断已有成果解决了什么、解决程度及具体瓶颈。
@@ -12,7 +14,7 @@
 
 ## 安装
 
-从 [Releases](https://github.com/OVERTIMEyu/review-literature/releases/latest) 下载 `review-literature-v1.0.0.zip`，解压后将 `review-literature` 文件夹放入 Codex 技能目录（通常为 `~/.codex/skills/`）。目录中应直接包含 `SKILL.md` 与 `references/`。重新打开 Codex 后使用。
+从 [Releases](https://github.com/OVERTIMEyu/review-literature/releases/latest) 下载 `review-literature-v1.0.1.zip`，解压后将 `review-literature` 文件夹放入 Codex 技能目录（通常为 `~/.codex/skills/`）。目录中应直接包含 `SKILL.md` 与 `references/`。重新打开 Codex 后使用。
 
 也可克隆本仓库至技能目录下的 `review-literature` 文件夹。
 
